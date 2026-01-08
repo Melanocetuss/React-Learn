@@ -1,0 +1,29 @@
+.project-main {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    width: 300px;
+    height: 150px;
+}
+
+.project {
+    width: 300px;
+    height: 150px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 20px;
+}
+
+.project-title {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
