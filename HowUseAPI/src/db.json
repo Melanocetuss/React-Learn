@@ -1,14 +1,24 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "userName": "melanocetus",
-            "password": "1234"
-        },
-        {
-            "id": 2,
-            "userName": "cesuralphan",
-            "password": "1234"
-        }
-    ]
+  "users": [
+    {
+      "id": "1",
+      "userName": "melanocetus",
+      "password": "1234"
+    },
+    {
+      "id": "2",
+      "userName": "cesuralphan",
+      "password": "1234"
+    },
+    {
+      "userName": "updateUser",
+      "password": "1234",
+      "id": "3"
+    },
+    {
+      "id": "f2dc",
+      "userName": "hasan",
+      "password": "1234"
+    }
+  ]
 }
