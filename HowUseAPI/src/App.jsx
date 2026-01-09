@@ -65,6 +65,7 @@ function App() {
 
   return (
     <>
+      <h1>Look Console</h1>
     </>
   )
 }
